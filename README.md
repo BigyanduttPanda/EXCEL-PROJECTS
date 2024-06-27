@@ -2,6 +2,9 @@
 ## About
 This repository is a collection of Excel projects I have worked on to showcase my skills and expertise in data analysis, financial modeling, and spreadsheet automation. Excel is a widely used and indispensable tool in the world of business, finance, and data-driven decision-making.
 
+Projects Included:-
+Coffee Shop Sales: Analyzed the data from H1 2023 with Pivot Tables to visualize patterns and trends, and provided the business with insights and recommendations.
+
 The projects in this repository demonstrate my ability to:
 
 - Efficiently gather, organize, and clean data from various sources
