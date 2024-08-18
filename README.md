@@ -4,6 +4,7 @@ This repository is a collection of Excel projects I have worked on to showcase m
 
 Projects Included:-
 - Coffee Shop Sales: Analyzed the data from H1 2023 with Pivot Tables to visualize patterns and trends, and provided the business with insights and recommendations.
+- Vrinda Store Sales: Analyzed Vrinda Store's 2023 sales data to understand customer behavior and identify strategies to increase sales in the following year.
 
 The projects in this repository demonstrate my ability to:
 
