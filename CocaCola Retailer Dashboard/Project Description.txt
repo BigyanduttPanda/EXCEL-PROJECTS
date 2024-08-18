@@ -11,6 +11,36 @@ Implementation Highlights:
 🔺 Dashboard Design and Visualization by using excel
 🔺 Key insights extraction and recommendations generation
 
+🗂️ Dashboard Highlights:
+
+1. Sales by Beverage Brands (2022 vs 2023):
+
+ - Detailed comparison of sales across different Coca Cola beverage brands.
+
+ - Insightful variance analysis to identify growth trends and performance shifts.
+
+2. Sales by Retailers:
+
+ - Breakdown of sales performance across various retail partners.
+
+ - Highlighting top-performing retailers and potential areas for improvement.
+
+3. Quarterly Sales and Operating Profit Margin:
+
+ - Interactive chart showcasing quarterly sales figures.
+
+ - Visualization of operating profit margins to understand profitability trends.
+
+📊 KPIs Analysed:
+
+ - Total Sales
+
+ - Units Sold
+
+ - Average Price
+
+ - Total Operating Profit
+
 Notable Insights:
 👉 Quarter 3 of 2023 demonstrates exceptional performance for Coca-Cola USA, marked by high sales and operating profit margin.
 👉 Total sales in Quarter 3 reached $2,700,000, indicating robust market demand and effective sales strategies during this period.
